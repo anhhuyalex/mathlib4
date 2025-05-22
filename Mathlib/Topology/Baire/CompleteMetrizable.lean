@@ -4,7 +4,6 @@ Released under Apache 2.0 license as described in the file LICENSE.
 Authors: Sébastien Gouëzel, Yury Kudryashov
 -/
 import Mathlib.Analysis.SpecificLimits.Basic
-import Mathlib.Tactic.Finiteness
 import Mathlib.Topology.Metrizable.Uniformity
 
 /-!
